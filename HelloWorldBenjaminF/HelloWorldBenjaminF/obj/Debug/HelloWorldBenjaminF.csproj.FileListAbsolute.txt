@@ -1,0 +1,9 @@
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\bin\Debug\HelloWorldBenjaminF.exe.config
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\bin\Debug\HelloWorldBenjaminF.exe
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\bin\Debug\HelloWorldBenjaminF.pdb
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\obj\Debug\HelloWorldBenjaminF.csprojResolveAssemblyReference.cache
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\obj\Debug\HelloWorldBenjaminF.frmHelloWorld.resources
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\obj\Debug\HelloWorldBenjaminF.Properties.Resources.resources
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\obj\Debug\HelloWorldBenjaminF.csproj.GenerateResource.Cache
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\obj\Debug\HelloWorldBenjaminF.exe
+C:\Users\s255212\Documents\ICS3U Falsetto\Introduction\HelloWorldBenjaminF\HelloWorldBenjaminF\obj\Debug\HelloWorldBenjaminF.pdb
